@@ -1,2 +1,2 @@
 # automatic-garbanzo
-update the same 
+just update
