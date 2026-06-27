@@ -1,2 +1,2 @@
 # automatic-garbanzo
-just update
+update readme
